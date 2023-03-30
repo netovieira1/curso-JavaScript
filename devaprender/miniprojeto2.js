@@ -6,7 +6,7 @@ console.log(valorMaior)
 
 function max(numero1, numero2){
     return numero1 > numero2 ? numero1 : numero2
-}   // SE numero um for MAIOR que numero 2 RETORNE numero1 SENAO retorne numero2
+}   // SE numero1 for MAIOR que numero2 RETORNE numero1 SENAO retorne numero2
 
 
 
